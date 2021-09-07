@@ -8,8 +8,8 @@
       "categories": []
     },
     {
-      "key": "快播云",
-      "name": "快播云",
+      "key": "快播",
+      "name": "快播",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
