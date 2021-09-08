@@ -1,12 +1,5 @@
 {
-  "sites": [
-    {
-      "key": "大地",
-      "name": "大地资源",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "categories": []
-    },
+  "sites": [    
     {
       "key": "快播",
       "name": "快播",
@@ -367,6 +360,13 @@
       "playUrl": ""
     },
      {
+      "key": "大地",
+      "name": "大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "categories": []
+    },
+    {
       "key": 1,
       "name": "18X 色色资源",
 "type": 0,
