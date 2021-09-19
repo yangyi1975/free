@@ -162,14 +162,7 @@
       "api": "https://v8.bdxzyapi.com/inc/api.php",
       "playUrl": ""
     },
-    {
-      "key": "芒果",
-      "name": "芒果",
-      "type": 0,
-      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
-      "categories": []
-    },
-    {
+     {
       "key": "极品资源",
       "name": "极品资源",
       "type": 0,
@@ -323,21 +316,7 @@
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
-    {
-      "key": "优果",
-      "name": "优果",
-      "type": 0,
-      "api": "https://www.ugvapi.com/inc/zyapimac.php",
-      "playUrl": ""
-    },
-    {
-      "key": "老鸭资源",
-      "name": "老鸭资源",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url="
-    },
-    {
+         {
       "key": "欧乐影院",
       "name": "欧乐影院",
       "type": 0,
@@ -501,6 +480,20 @@
       "playUrl": ""
     },
      {
+      "key": "芒果",
+      "name": "芒果",
+      "type": 0,
+      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "老鸭资源",
+      "name": "老鸭资源",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url="
+    },
+    {
       "key":"大地",
       "name": "大地资源",
       "type": 0,
@@ -604,14 +597,6 @@
       "categories": []
     },
     {
-      "key": "18X 小黄瓜视频",
-      "name": "18X 小黄瓜视频",
-       "type": 0,
-      "api": "http://cj.xhgcjym.com/inc/api.php",
-      "playUrl": "",
-      "categories": []
-    },
-{
       "key": "18X 优果资源",
       "name": "18X 优果资源",
        "type": 0,
@@ -619,31 +604,7 @@
       "playUrl": "",
       "categories": []
     },
-{
-      "key":"18X 云霸资源",
-      "name": "18X 云霸资源",
-       "type": 0,
-      "api": "http://cj.1234567bt.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "18X IXX资源",
-      "name": "18X IXX资源",
-       "type": 0,
-      "api": "http://api.iixxzyapi.com/inc/api.php",
-      "playUrl": "",
-      "categories": []
-    },
- {
-      "key": "18X 名优馆资源",
-      "name": "18X 名优馆资源",
-       "type": 0,
-      "api": "http://mygzycj.com/sapi.php",
-      "playUrl": "",
-      "categories": []
-    },
-{
+   {
       "key": "18X 哥哥妹妹资源",
       "name": "18X 哥哥妹妹资源",
        "type": 0,
@@ -651,15 +612,7 @@
       "playUrl": "",
       "categories": []
     },
-    {
-      "key": "18X 大炮资源",
-      "name": "18X 大炮资源",
-       "type": 0,
-      "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-{
+   {
       "key": "18X 乐播资源",
       "name": "18X 乐播资源",
        "type": 0,
@@ -675,39 +628,7 @@
       "playUrl": "",
       "categories": []
     },
-{
-      "key": "18X 35资源",
-      "name": "18X 35资源",
-       "type": 0,
-      "api": "http://cj.35zycj.com/inc/zyapimac.php",
-      "playUrl": "",
-      "categories": []
-    },
-{
-      "key": "18X 新辣椒资源",
-      "name": "18X 新辣椒资源",
-       "type": 0,
-      "api": "https://apilj.com/api.php/Seacms/vod/ \n",
-      "playUrl": "",
-      "categories": []
-    },
-{
-      "key": "18X 超碰资源",
-      "name": "18X 超碰资源",
-       "type": 0,
-      "api": "http://zy.cpdaquan.com/inc/seacmsapi.php",
-      "playUrl": "",
-      "categories": []
-    },
- {
-      "key": "18X 利来资源",
-      "name": "18X 利来资源",
-       "type": 0,
-      "api": "http://llzxcj.com/inc/sck.php",
-      "playUrl": "",
-      "categories": []
-    },
-    {
+     {
       "key":  "AV88资源",
       "name": "AV88资源",
 "type": 0,
