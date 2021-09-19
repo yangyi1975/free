@@ -610,7 +610,6 @@
       "api": "http://cj.xhgcjym.com/inc/api.php",
       "playUrl": "",
       "categories": []
-        "wePlus": {}
     },
 {
       "key": 1,
@@ -619,7 +618,6 @@
       "api": "https://www.ugvapi.com/inc/zyapimac.php",
       "playUrl": "",
       "categories": []
-        "wePlus": {}
     },
 {
       "key": 1,
@@ -628,7 +626,6 @@
       "api": "http://cj.1234567bt.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
-        "wePlus": {}
     },
     {
       "key": 1,
@@ -637,7 +634,6 @@
       "api": "http://api.iixxzyapi.com/inc/api.php",
       "playUrl": "",
       "categories": []
-          "wePlus": {}
     },
  {
       "key": 1,
@@ -646,7 +642,6 @@
       "api": "http://mygzycj.com/sapi.php",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
 {
       "key": 1,
@@ -655,7 +650,6 @@
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
     {
       "key": 1,
@@ -664,7 +658,6 @@
       "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
 {
       "key": 1,
@@ -673,7 +666,6 @@
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
 {
       "key": 1,
@@ -682,7 +674,6 @@
       "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
 {
       "key": 1,
@@ -691,7 +682,6 @@
       "api": "http://cj.35zycj.com/inc/zyapimac.php",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
 {
       "key": 1,
@@ -700,7 +690,6 @@
       "api": "https://apilj.com/api.php/Seacms/vod/ \n",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
 {
       "key": 1,
@@ -709,7 +698,6 @@
       "api": "http://zy.cpdaquan.com/inc/seacmsapi.php",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
  {
       "key": 1,
@@ -718,7 +706,6 @@
       "api": "http://llzxcj.com/inc/sck.php",
       "playUrl": "",
       "categories": []
-      "wePlus": {}
     },
     {
       "key":  "AV88资源",
