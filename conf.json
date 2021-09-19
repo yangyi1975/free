@@ -604,7 +604,7 @@
       "categories": []
     },
     {
-      "key": 1,
+      "key": "18X 小黄瓜视频",
       "name": "18X 小黄瓜视频",
        "type": 0,
       "api": "http://cj.xhgcjym.com/inc/api.php",
@@ -612,7 +612,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key": "18X 优果资源",
       "name": "18X 优果资源",
        "type": 0,
       "api": "https://www.ugvapi.com/inc/zyapimac.php",
@@ -620,7 +620,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key":"18X 云霸资源",
       "name": "18X 云霸资源",
        "type": 0,
       "api": "http://cj.1234567bt.com/api.php/provide/vod/at/xml/",
@@ -628,7 +628,7 @@
       "categories": []
     },
     {
-      "key": 1,
+      "key": "18X IXX资源",
       "name": "18X IXX资源",
        "type": 0,
       "api": "http://api.iixxzyapi.com/inc/api.php",
@@ -636,7 +636,7 @@
       "categories": []
     },
  {
-      "key": 1,
+      "key": "18X 名优馆资源",
       "name": "18X 名优馆资源",
        "type": 0,
       "api": "http://mygzycj.com/sapi.php",
@@ -644,7 +644,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key": "18X 哥哥妹妹资源",
       "name": "18X 哥哥妹妹资源",
        "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
@@ -652,7 +652,7 @@
       "categories": []
     },
     {
-      "key": 1,
+      "key": "18X 大炮资源",
       "name": "18X 大炮资源",
        "type": 0,
       "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
@@ -660,7 +660,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key": "18X 乐播资源",
       "name": "18X 乐播资源",
        "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
@@ -668,7 +668,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key": "18X 苍天资源",
       "name": "18X 苍天资源",
        "type": 0,
       "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
@@ -676,7 +676,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key": "18X 35资源",
       "name": "18X 35资源",
        "type": 0,
       "api": "http://cj.35zycj.com/inc/zyapimac.php",
@@ -684,7 +684,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key": "18X 新辣椒资源",
       "name": "18X 新辣椒资源",
        "type": 0,
       "api": "https://apilj.com/api.php/Seacms/vod/ \n",
@@ -692,7 +692,7 @@
       "categories": []
     },
 {
-      "key": 1,
+      "key": "18X 超碰资源",
       "name": "18X 超碰资源",
        "type": 0,
       "api": "http://zy.cpdaquan.com/inc/seacmsapi.php",
@@ -700,7 +700,7 @@
       "categories": []
     },
  {
-      "key": 1,
+      "key": "18X 利来资源",
       "name": "18X 利来资源",
        "type": 0,
       "api": "http://llzxcj.com/inc/sck.php",
