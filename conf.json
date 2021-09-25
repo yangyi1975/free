@@ -8,6 +8,7 @@
       "playUrl": "",
       "quickSearch": 0,
       "filterable": 1
+      "categories": []
     },
     {
       "key": "hgys_spider",
@@ -17,6 +18,7 @@
       "playUrl": "",
       "quickSearch": 0,
       "filterable": 1
+      "categories": []
     },
     {
       "key": "auete_spider",
@@ -26,6 +28,7 @@
       "playUrl": "",
       "quickSearch": 0,
       "filterable": 1
+      "categories": []
     },
     {
       "key": "afys_spider",
@@ -35,6 +38,7 @@
       "playUrl": "",
       "searchable": 1,
       "filterable": 1
+      "categories": []
     },
     {
       "key": "豆瓣云",
@@ -140,6 +144,7 @@
       "type": 0,
       "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "红牛资源",
@@ -147,6 +152,7 @@
       "type": 0,
       "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
       "playUrl": "https://www.tutukiki.com/m3u8/?url="
+      "categories": []
     },
     {
       "key": "恐怖鸭资源",
@@ -154,6 +160,7 @@
       "type": 0,
       "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "北斗星",
@@ -161,6 +168,7 @@
       "type": 0,
       "api": "https://v8.bdxzyapi.com/inc/api.php",
       "playUrl": ""
+      "categories": []
     },
      {
       "key": "极品资源",
@@ -238,6 +246,7 @@
       "type": 0,
       "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "1886",
@@ -245,6 +254,7 @@
       "type": 0,
       "api": "http://cj.1886zy.co/inc/api.php",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "独播库",
@@ -252,6 +262,7 @@
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "瑞瑞",
@@ -259,6 +270,7 @@
       "type": 0,
       "api": "http://http://www.ruiuri.com/api.php/provide/vod/at/xml",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "北斗星",
@@ -266,6 +278,7 @@
       "type": 0,
       "api": "https://v8.bdxzyapi.com/inc/api.php",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "赞片",
@@ -273,6 +286,7 @@
       "type": 0,
       "api": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "橘猫",
@@ -280,6 +294,7 @@
       "type": 0,
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "playUrl": ""
+      "categories": []
     },
     {
       "key": "五一",
