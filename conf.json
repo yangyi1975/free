@@ -3,7 +3,7 @@
     {
       "key": "adys_spider",
       "name": "爱迪影视",
-      "type": 2,
+      "type": 0,
       "api": "48YdXbyTkTe55r",
        "playUrl": "",
       "searchable": 1,
@@ -13,31 +13,31 @@
     {
       "key": "hgys_spider",
       "name": "HG影视",
-      "type": 2,
+      "type": 0,
       "api": "wkjskK5hA6Cxr7",
       "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "searchable": 1,
+      "filterable": 0,
       "categories": []
     },
     {
       "key": "auete_spider",
       "name": "Auete影视",
-      "type": 2,
+      "type": 0,
       "api": "eboTY5qAokEemZ",
       "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "searchable": 1,
+      "filterable": 0,
       "categories": []
     },
     {
       "key": "afys_spider",
       "name": "阿房影视",
-      "type": 2,
+      "type": 0,
       "api": "7gxke5P9eFZoVV",
       "playUrl": "",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 0,
       "categories": []
     },
     {
@@ -45,7 +45,7 @@
       "name": "豆瓣云",
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
+       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
