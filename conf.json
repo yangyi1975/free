@@ -1,7 +1,7 @@
 {
   "sites": [    
     {
-      "key": "adys_spider",
+      "key": "爱迪影视",
       "name": "爱迪影视",
       "type": 0,
       "api": "48YdXbyTkTe55r",
@@ -11,7 +11,7 @@
       "categories": []
     },
     {
-      "key": "hgys_spider",
+      "key": "HG影视",
       "name": "HG影视",
       "type": 0,
       "api": "wkjskK5hA6Cxr7",
@@ -21,7 +21,7 @@
       "categories": []
     },
     {
-      "key": "auete_spider",
+      "key": "Auete影视",
       "name": "Auete影视",
       "type": 0,
       "api": "eboTY5qAokEemZ",
@@ -31,7 +31,7 @@
       "categories": []
     },
     {
-      "key": "afys_spider",
+      "key": "阿房影视",
       "name": "阿房影视",
       "type": 0,
       "api": "7gxke5P9eFZoVV",
