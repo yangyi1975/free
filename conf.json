@@ -1,41 +1,65 @@
 {
   "sites": [    
-    {
-      "key": "adys_spider",
-      "name": "爱迪影视",
-      "type": 2,
-      "api": "48YdXbyTkTe55r",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+     {
+    "key": "csp_Aidi",
+    "name": "爱迪爬虫",
+    "type": 3,
+    "api": "csp_Aidi",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
     },
+     {
+  "key": "csp_EPang",
+  "name": "阿房爬虫",
+  "type": 3,
+  "api": "csp_EPang",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},    
     {
-      "key": "hgys_spider",
-      "name": "HG影视",
-      "type": 2,
-      "api": "wkjskK5hA6Cxr7",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+    "key": "csp_Enlienli",
+    "name": "嗯哩爬虫",
+    "type": 3,
+    "api": "csp_Enlienli",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
     },
+{
+  "key": "csp_Auete",
+  "name": "奥特爬虫",
+  "type": 3,
+  "api": "csp_Auete",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
     {
-      "key": "auete_spider",
-      "name": "Auete影视",
-      "type": 2,
-      "api": "eboTY5qAokEemZ",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "afys_spider",
-      "name": "阿房影视",
-      "type": 2,
-      "api": "7gxke5P9eFZoVV",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 1
-    },
+            "key": "八戒资源",
+            "name": "八戒资源",
+            "type": 0,
+            "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+            "playUrl": "",
+            "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰国剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+            ]
+        },
     {
       "key": "豆瓣云",
       "name": "豆瓣云",
