@@ -1,107 +1,107 @@
 {
   "sites": [    
-       {
-      "key": "小小资源",
-      "name": "小小资源",
+        {
+      "key": "牛牛影院",
+      "name": "牛牛影院",
       "type": 0,
-      "api": "https://api.88jiexi.com/api.php/provide/vod/at/xml",
+      "api": "https://www.48da.net/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
    {
-      "key": "92资源",
-      "name": "92资源",
+      "key": "蚂蚁BT",
+      "name": "蚂蚁BT",
       "type": 0,
-      "api": "http://www.92aizy.com/api/macs.php",
+      "api": "https://www.mayipbt.cc/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
     {
-      "key": "博天堂",
-      "name": "博天堂",
+      "key": "HD影院",
+      "name": "HD影院",
       "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
+      "api": "http://www.ihdtvw.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
     {
-      "key": "茄子资源",
-      "name": "茄子资源",
+      "key": "韩剧网",
+      "name": "韩剧网",
       "type": 0,
-      "api": "http://ssl.qieziapi.xyz/inc/api.php",
+      "api": "http://www.iyisai.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": []
     },
    {
-      "key": "泡饭影视",
-      "name": "泡饭影视",
+      "key": "PZ影视",
+      "name": "PZ影视",
       "type": 0,
-      "api": "https://www.paofans.net/api.php/provide/vod/at/xml",
+      "api": "https://puz.pub/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
-      "key": "趣步TV",
-      "name": "趣步TV",
+      "key": "AWSLTV",
+      "name": "AWSLTV",
       "type": 0,
-      "api": "http://qubu.tv/api.php/provide/vod/at/xml",
+      "api": "http://www.awsltv.com/api.php/provide/vod/at/xml",
       "categories": []
     },
   {
-      "key": "沃酷",
-      "name": "沃酷",
+      "key": "焱冰资源",
+      "name": "焱冰资源",
       "type": 0,
-      "api": "https://www.wokuzy.com/api/xml/wokum3u8",
+      "api": "http://www.yuantongzhi.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
    {
-      "key": "牛牛资源",
-      "name": "牛牛资源",
+      "key": "璇玑影视",
+      "name": "璇玑影视",
       "type": 0,
-      "api": "http://v.niuniucj.com/inc/api.php",
+      "api": "http://xjiys.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
     {
-      "key": "聚合资源",
-      "name": "聚合资源",
+      "key": "33uu资源",
+      "name": "33uu资源",
       "type": 0,
-      "api": "https://cj.cbi88.com/inc/api_juhem3u8.php",
+      "api": "http://www.209zy.net/inc/api.php",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
     {
-      "key": "帝国资源",
-      "name": "帝国资源",
+      "key": "爱看电影",
+      "name": "爱看电影",
       "type": 0,
-      "api": "http://www.yszydg.com/inc/api.php",
+      "api": "http://www.ikanmv.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
     },
    {
-      "key": "无限影视",
-      "name": "无限影视",
+      "key": "奇乐电影网",
+      "name": "奇乐电影网",
       "type": 0,
-      "api": "http://www.wxtv.net/api.php/provide/vod/at/xml",
+      "api": "http://www.1qile.com/inc/api.php",
       "playUrl": ""
     },
     {
-      "key": "一起看剧",
-      "name": "一起看剧",
+      "key": "播王TV",
+      "name": "播王TV",
       "type": 0,
-      "api": "http://www.17kanju.com/api.php/provide/vod/at/xml",
+      "api": "https://bowang.tv/api.php/provide/vod/at/xml",
       "categories": []
     },
 {
@@ -634,6 +634,16 @@
       "type": 0,
       "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
       "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "博天堂",
+      "name": "博天堂",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
       "categories": []
     },
     {
