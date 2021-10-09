@@ -1,8 +1,8 @@
 {
   "sites": [    
       {
-        "key": "123ku",
-        "name": "444资源",
+        "key": "776688",
+        "name": "776688",
         "type": 0,
         "api": "http://m.7777688.com/inc/api.php",
         "playUrl": "",
@@ -540,7 +540,15 @@
       "playUrl": "",
       "categories": []
     },
-  {
+    {
+        "key": "776688",
+        "name": "776688",
+        "type": 0,
+        "api": "http://m.7777688.com/inc/api.php",
+        "playUrl": "",
+        "categories": []
+    },
+    {
       "key": "芒果",
       "name": "芒果",
       "type": 0,
