@@ -1,14 +1,110 @@
 {
   "sites": [    
-      {
-        "key": "776688",
-        "name": "aaa",
-        "type": 0,
-        "api": "http://cj.809zy.com/inc/seacmsapi.php",
-	"playUrl": "",
-        "categories": []
+       {
+      "key": "小小资源",
+      "name": "小小资源",
+      "type": 0,
+      "api": "https://api.88jiexi.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
     },
- {
+   {
+      "key": "BL影视",
+      "name": "92资源",
+      "type": 0,
+      "api": "http://www.92aizy.com/api/macs.php",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },
+    {
+      "key": "M3U8TV",
+      "name": "博天堂",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },
+    {
+      "key": "快播",
+      "name": "茄子资源",
+      "type": 0,
+      "api": "http://ssl.qieziapi.xyz/inc/api.php",
+      "playUrl": "",
+      "categories": []
+    },
+   {
+      "key": "红牛资源",
+      "name": "泡饭影视",
+      "type": 0,
+      "api": "https://www.paofans.net/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "三零资源",
+      "name": "趣步TV",
+      "type": 0,
+      "api": "http://qubu.tv/api.php/provide/vod/at/xml",
+      "categories": []
+    },
+  {
+      "key": "小小资源",
+      "name": "沃酷",
+      "type": 0,
+      "api": "https://www.wokuzy.com/api/xml/wokum3u8",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },
+   {
+      "key": "BL影视",
+      "name": "牛牛资源",
+      "type": 0,
+      "api": "http://v.niuniucj.com/inc/api.php",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },
+    {
+      "key": "M3U8TV",
+      "name": "聚合资源",
+      "type": 0,
+      "api": "https://cj.cbi88.com/inc/api_juhem3u8.php",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },
+    {
+      "key": "快播",
+      "name": "帝国资源",
+      "type": 0,
+      "api": "http://www.yszydg.com/inc/api.php",
+      "playUrl": "",
+      "categories": []
+    },
+   {
+      "key": "红牛资源",
+      "name": "无限影视",
+      "type": 0,
+      "api": "http://www.wxtv.net/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "三零资源",
+      "name": "一起看剧",
+      "type": 0,
+      "api": "http://www.17kanju.com/api.php/provide/vod/at/xml",
+      "categories": []
+    },
+{
   "key": "csp_Cokemv",
   "name": "Cokemv(爬虫)",
   "type": 3,
