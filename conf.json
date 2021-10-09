@@ -1,62 +1,62 @@
 {
   "sites": [    
-        {
-      "key": "牛牛影院",
-      "name": "牛牛影院",
+         {
+      "key": "35资源",
+      "name": "35资源",
       "type": 0,
-      "api": "https://www.48da.net/api.php/provide/vod/at/xml",
+      "api": "http://cj.35zycj.com/inc/zyapimac.php",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
    {
-      "key": "蚂蚁BT",
-      "name": "蚂蚁BT",
+      "key": "800资源",
+      "name": "800资源",
       "type": 0,
-      "api": "https://www.mayipbt.cc/api.php/provide/vod/at/xml",
+      "api": "http://cj.809zy.com/inc/zyapimac.php",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
     {
-      "key": "HD影院",
-      "name": "HD影院",
+      "key": "撸死你资源",
+      "name": "撸死你资源",
       "type": 0,
-      "api": "http://www.ihdtvw.com/api.php/provide/vod/at/xml",
+      "api": "http://lsnzxcj.com/inc/sapi.php",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
     {
-      "key": "韩剧网",
-      "name": "韩剧网",
+      "key": "番号资源",
+      "name": "番号资源",
       "type": 0,
-      "api": "http://www.iyisai.com/api.php/provide/vod/at/xml",
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
     },
    {
-      "key": "PZ影视",
-      "name": "PZ影视",
+      "key": 大炮资源(无水印)",
+      "name": "大炮资源(无水印)",
       "type": 0,
-      "api": "https://puz.pub/api.php/provide/vod/at/xml",
+      "api": http://dgdy.me/api.php/provide/vod/at/xml
       "playUrl": ""
     },
     {
-      "key": "AWSLTV",
-      "name": "AWSLTV",
+      "key": "污妹妹",
+      "name": "污妹妹",
       "type": 0,
-      "api": "http://www.awsltv.com/api.php/provide/vod/at/xml",
+      "api": "http://www.hdbbb.xyz/api.php/provide/vod/at/xml",
       "categories": []
     },
   {
-      "key": "焱冰资源",
-      "name": "焱冰资源",
+      "key": "恒大资源",
+      "name": "恒大资源",
       "type": 0,
-      "api": "http://www.yuantongzhi.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.av00.cc/inc/api.php",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
@@ -73,35 +73,35 @@
       "categories": []
     },
     {
-      "key": "33uu资源",
-      "name": "33uu资源",
+      "key": "XIXI资源",
+      "name": "XIXI资源",
       "type": 0,
-      "api": "http://www.209zy.net/inc/api.php",
+      "api": "http://api.xixizy.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "categories": []
     },
     {
-      "key": "爱看电影",
-      "name": "爱看电影",
+      "key": "☆saltfish.cc",
+      "name": "☆saltfish.cc",
       "type": 0,
-      "api": "http://www.ikanmv.com/api.php/provide/vod/at/xml/",
+      "api": "http://www.saltfish.cc/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
     },
    {
-      "key": "奇乐电影网",
-      "name": "奇乐电影网",
+      "key": "小色妹",
+      "name": "小色妹",
       "type": 0,
-      "api": "http://www.1qile.com/inc/api.php",
+      "api": "http://www.xiaoxn.top/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
-      "key": "播王TV",
-      "name": "播王TV",
+      "key": "一狐影视",
+      "name": "一狐影视",
       "type": 0,
-      "api": "https://bowang.tv/api.php/provide/vod/at/xml",
+      "api": "http://1hutv.com/api.php/provide/vod/at/xml",
       "categories": []
     },
 {
