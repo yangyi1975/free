@@ -1,110 +1,5 @@
 {
   "sites": [    
-         {
-      "key": "35资源",
-      "name": "35资源",
-      "type": 0,
-      "api": "http://cj.35zycj.com/inc/zyapimac.php",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
-    },
-   {
-      "key": "800资源",
-      "name": "800资源",
-      "type": 0,
-      "api": "http://cj.809zy.com/inc/zyapimac.php",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
-    },
-    {
-      "key": "撸死你资源",
-      "name": "撸死你资源",
-      "type": 0,
-      "api": "http://lsnzxcj.com/inc/sapi.php",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
-    },
-    {
-      "key": "番号资源",
-      "name": "番号资源",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-   {
-      "key": "大炮资源(无水印)",
-      "name": "大炮资源(无水印)",
-      "type": 0,
-      "api": "http://dgdy.me/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "污妹妹",
-      "name": "污妹妹",
-      "type": 0,
-      "api": "http://www.hdbbb.xyz/api.php/provide/vod/at/xml",
-      "categories": []
-    },
-  {
-      "key": "恒大资源",
-      "name": "恒大资源",
-      "type": 0,
-      "api": "https://www.av00.cc/inc/api.php",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
-    },
-   {
-      "key": "璇玑影视",
-      "name": "璇玑影视",
-      "type": 0,
-      "api": "http://xjiys.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
-    },
-    {
-      "key": "XIXI资源",
-      "name": "XIXI资源",
-      "type": 0,
-      "api": "http://api.xixizy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
-    },
-    {
-      "key": "☆saltfish.cc",
-      "name": "☆saltfish.cc",
-      "type": 0,
-      "api": "http://www.saltfish.cc/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-   {
-      "key": "小色妹",
-      "name": "小色妹",
-      "type": 0,
-      "api": "http://www.xiaoxn.top/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "一狐影视",
-      "name": "一狐影视",
-      "type": 0,
-      "api": "http://1hutv.com/api.php/provide/vod/at/xml",
-      "categories": []
-    },
 {
   "key": "csp_Cokemv",
   "name": "Cokemv(爬虫)",
@@ -669,14 +564,6 @@
       "categories": []
     },
     {
-      "key": "色色资源",
-      "name": "色色资源",
-      "type": 0,
-      "api": "http://m.7777688.com/inc/api.php",
-      "playUrl": "",
-      "categories": []
-    },
-    {
       "key": "鲨鱼资源",
       "name": "鲨鱼资源",
       "type": 0,
@@ -703,14 +590,6 @@
     {
       "key": "佳丽TV",
       "name": "佳丽TV",
-      "type": 0,
-      "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-     "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "佳丽TV2",
-      "name": "佳丽TV2",
       "type": 0,
       "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
      "playUrl": "",
