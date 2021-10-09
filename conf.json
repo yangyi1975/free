@@ -4,7 +4,7 @@
         "key": "123ku",
         "name": "123 资源",
         "type": 0,
-        "api": "http://cj.123ku2.com:12315/inc/api.php",
+        "api": "https://zy.7kjx.com/cjapi.php",
         "playUrl": "",
         "categories": []
     },
