@@ -4,21 +4,17 @@
         "key": "mahuazy",
         "name": "麻花资源",
         "type": 0,
-"api": "http://www.mhapi123.com/inc/ldg_api.php",
-       "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
+        "api": "http://www.mhapi123.com/inc/ldg_api.php",
+        "playUrl": "",
+        "categories": []
     },
     {
         "key": "apibdzy",
         "name": "百度云资源",
        "type": 0,
- "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
-        "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
+       "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
+       "playUrl": "",
+       "categories": []
     },
 {
   "key": "csp_Cokemv",
