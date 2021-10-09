@@ -11,7 +11,7 @@
       "categories": []
     },
    {
-      "key": "BL影视",
+      "key": "92资源",
       "name": "92资源",
       "type": 0,
       "api": "http://www.92aizy.com/api/macs.php",
@@ -21,7 +21,7 @@
       "categories": []
     },
     {
-      "key": "M3U8TV",
+      "key": "博天堂",
       "name": "博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
@@ -31,7 +31,7 @@
       "categories": []
     },
     {
-      "key": "快播",
+      "key": "茄子资源",
       "name": "茄子资源",
       "type": 0,
       "api": "http://ssl.qieziapi.xyz/inc/api.php",
@@ -39,21 +39,21 @@
       "categories": []
     },
    {
-      "key": "红牛资源",
+      "key": "泡饭影视",
       "name": "泡饭影视",
       "type": 0,
       "api": "https://www.paofans.net/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
-      "key": "三零资源",
+      "key": "趣步TV",
       "name": "趣步TV",
       "type": 0,
       "api": "http://qubu.tv/api.php/provide/vod/at/xml",
       "categories": []
     },
   {
-      "key": "小小资源",
+      "key": "沃酷",
       "name": "沃酷",
       "type": 0,
       "api": "https://www.wokuzy.com/api/xml/wokum3u8",
@@ -63,7 +63,7 @@
       "categories": []
     },
    {
-      "key": "BL影视",
+      "key": "牛牛资源",
       "name": "牛牛资源",
       "type": 0,
       "api": "http://v.niuniucj.com/inc/api.php",
@@ -73,7 +73,7 @@
       "categories": []
     },
     {
-      "key": "M3U8TV",
+      "key": "聚合资源",
       "name": "聚合资源",
       "type": 0,
       "api": "https://cj.cbi88.com/inc/api_juhem3u8.php",
@@ -83,7 +83,7 @@
       "categories": []
     },
     {
-      "key": "快播",
+      "key": "帝国资源",
       "name": "帝国资源",
       "type": 0,
       "api": "http://www.yszydg.com/inc/api.php",
@@ -91,14 +91,14 @@
       "categories": []
     },
    {
-      "key": "红牛资源",
+      "key": "无限影视",
       "name": "无限影视",
       "type": 0,
       "api": "http://www.wxtv.net/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
-      "key": "三零资源",
+      "key": "一起看剧",
       "name": "一起看剧",
       "type": 0,
       "api": "http://www.17kanju.com/api.php/provide/vod/at/xml",
