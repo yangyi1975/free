@@ -2,9 +2,9 @@
   "sites": [    
       {
         "key": "123ku",
-        "name": "1111 资源",
+        "name": "222资源",
         "type": 0,
-        "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+        "api": "http://www.zdziyuan.com/inc/ldg_sea.php/",
         "playUrl": "",
         "categories": []
     },
