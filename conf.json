@@ -2,7 +2,7 @@
   "sites": [    
       {
         "key": "123ku",
-        "name": "123 资源",
+        "name": "1111 资源",
         "type": 0,
         "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
         "playUrl": "",
