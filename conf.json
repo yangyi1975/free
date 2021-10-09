@@ -1,25 +1,25 @@
 {
   "sites": [    
-       {
-        "id": 1,
+      {
         "key": "mahuazy",
         "name": "麻花资源",
-        "api": "http://www.mhapi123.com/inc/ldg_api.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "默认",
-        "isActive": true
+        "type": 0,
+"api": "http://www.mhapi123.com/inc/ldg_api.php",
+       "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
     },
     {
-        "id": 2,
         "key": "apibdzy",
         "name": "百度云资源",
-        "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
-        "download": "",
-        "jiexiUrl": "https://jx.444662.cn/m3u8/?url=",
-        "group": "默认",
-        "isActive": true
-    },	  
+       "type": 0,
+ "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
+        "playUrl": "",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },
 {
   "key": "csp_Cokemv",
   "name": "Cokemv(爬虫)",
