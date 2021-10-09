@@ -2,9 +2,9 @@
   "sites": [    
       {
         "key": "776688",
-        "name": "7688",
+        "name": "aaa",
         "type": 0,
-        "api": "http://cj.vod1769.com/zyapimacc.php",
+        "api": "http://cj.809zy.com/inc/seacmsapi.php",
 	"playUrl": "",
         "categories": []
     },
