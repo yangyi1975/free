@@ -39,10 +39,10 @@
       "categories": []
     },
    {
-      "key": 大炮资源(无水印)",
+      "key": "大炮资源(无水印)",
       "name": "大炮资源(无水印)",
       "type": 0,
-      "api": http://dgdy.me/api.php/provide/vod/at/xml
+      "api": "http://dgdy.me/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
