@@ -2,24 +2,6 @@
 "spider": "https://raw.sevencdn.com/yangyi1975/free/main/custom_spider.jar",
 "sites": [    
 {
-  "key": "csp_Ubo",
-  "name": "U播影视",
-  "type": 3,
-  "api": "csp_Ubo",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1
-},
-    {
-      "key": "csp_tvci",
-      "name": "tvci",
-      "type": 3,
-      "api": "csp_tvci",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-	{
     "key": "csp_Aidi",
     "name": "爱迪爬虫",
     "type": 3,
@@ -250,15 +232,7 @@
         "港台综艺"
       ]
       },
-  	{
-		"key": "阿里影视网",
-		"name": "阿里影视网",
-		"type": 0,
-		"api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-            	{
+  		{
 		"key": "随便看",
 		"name": "随便看_M",
 		"type": 0,
@@ -288,15 +262,7 @@
 		"playUrl": "",
 		"categories": []
 	},
-        	{
-		"key": "迪加(*Φ皿Φ*)",
-		"name": "迪加(*Φ皿Φ*)_M",
-		"type": 0,
-		"api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-   {
+    {
       "key": "豆瓣云",
       "name": "豆瓣云_M",
       "type": 1,
@@ -345,21 +311,7 @@
       "api": "http://www.hanjuzy.com/inc/api.php",
       "playUrl": "https://jx.aidouer.net/?url="
     },
-        {
-      "key": "任我云资源",
-      "name": "任我云资源",
-      "type": 0,
-      "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v="
-    },
-        {
-      "key": "9875资源",
-      "name": "9875资源_M",
-      "type": 0,
-      "api": "https://www.9875.xyz/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
+   {
       "key": "爱看1080",
       "name": "爱看1080_M",
       "type": 0,
@@ -413,14 +365,7 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	    {
-      "key": "X8资源",
-      "name": "X8资源_MB",
-      "type": 0,
-      "api": "https://www.x8x8-vip-2.ru/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    	{
+    	    	{
 		"key": "比邻影视",
 		"name": "比邻影视_M",
 		"type": 1,
@@ -967,6 +912,13 @@
       "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": []
+    },
+    {
+      "key": "X8资源",
+      "name": "X8资源_MB",
+      "type": 0,
+      "api": "https://www.x8x8-vip-2.ru/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "博天堂",
