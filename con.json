@@ -1,5 +1,6 @@
 {
-  "sites": [    
+"spider": "https://raw.sevencdn.com/yangyi1975/free/main/custom_spider.jar",
+"sites": [    
       {
   "key": "csp_Cokemv",
   "name": "Cokemv(爬虫)",
@@ -1535,5 +1536,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-   "spider": "https://ghproxy.com/https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar"
 }
