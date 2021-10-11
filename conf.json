@@ -773,13 +773,6 @@
       "categories": []
     },
     {
-      "key": "八戒云",
-      "name": "八戒云",
-      "type": 0,
-      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "categories": []
-    },
- {
       "key": "北斗星",
       "name": "北斗星",
       "type": 0,
@@ -984,14 +977,6 @@
       "categories": []
     },
     {
-      "key": "环亚资源",
-      "name": "环亚资源",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "playUrl": "",
-      "categories": []
-    },
-    {
       "key": "优果资源",
       "name": "优果资源",
        "type": 0,
@@ -1015,15 +1000,7 @@
       "playUrl": "",
       "categories": []
     },
-{
-      "key": "苍天资源",
-      "name": "苍天资源",
-       "type": 0,
-      "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
-      "playUrl": "",
-      "categories": []
-    },
-     {
+    {
       "key":  "AV88资源",
       "name": "AV88资源",
 "type": 0,
