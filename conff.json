@@ -2,6 +2,15 @@
 "spider": "https://raw.sevencdn.com/yangyi1975/free/main/custom_spider.jar",
 "sites": [    
       {
+    "key": "csp_Nekk",
+    "name": "9E看看（爬虫）",
+    "type": 3,
+    "api": "csp_Nekk",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+  },
+	{
     "key": "csp_Aidi",
     "name": "爱迪爬虫",
     "type": 3,
@@ -73,6 +82,97 @@
   "quickSearch": 0,
   "filterable": 0
 },
+	 {
+            "key": "真不卡",
+            "name": "真不卡",
+            "type": 0,
+            "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+{
+            "key": "飞鱼",
+            "name": "飞鱼",
+            "type": 0,
+            "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [                
+            ]
+        },
+{
+            "key": "播放吧",
+            "name": "播放吧",
+            "type": 0,
+            "api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [              
+            ]
+        },
+{
+            "key": "电影牛",
+            "name": "电影牛",
+            "type": 0,
+            "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories":[]
+        },
+{
+            "key": "网民电影",
+            "name": "网民电影",
+            "type": 0,
+            "api": "https://www.prinevillesda.org/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        }, 
+{
+            "key": "玺娜影视",
+            "name": "玺娜影视",
+            "type": 0,
+            "api": "https://www.yuxidy.cn/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        },
+{
+            "key": "乐活影视",
+            "name": "乐活影视",
+            "type": 0,
+            "api": "https://lehootv.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        }, 
+{
+            "key": "瓜皮TV",
+            "name": "瓜皮TV",
+            "type": 0,
+            "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+},
+{
+      "key": "1717腾讯资源",
+      "name": "腾讯资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/qq.php",
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
+    }, 
+{
+      "key": "1717爱奇艺资源",
+      "name": "爱奇艺资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/qiyi.php",
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
+    },
+{
+      "key": "1717搜狐资源",
+      "name": "搜狐资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/sohu.php",
+      "playUrl": "https://jx.xmflv.com/?url=",
+      		"categories": []
+    },
 {
 		"key": "One影视",
 		"name": "One影视_M",
