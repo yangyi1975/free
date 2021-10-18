@@ -1,10 +1,36 @@
 {
   "data": [
+     {
+      "id": 19,
+      "name": "Parwix解析",
+      "ad": "no",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    }, {
+      "id": 19,
+      "name": "小蒋",
+      "ad": "no",
+      "url": "https://www.kpezp.cn/jlexi.php?url="
+    }, {
+      "id": 19,
+      "name": "盘古",
+      "ad": "no",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
+    }, {
+      "id": 19,
+      "name": "乐多资源",
+      "ad": "no",
+      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
+    }, {
+      "id": 19,
+      "name": "ckmov",
+      "ad": "no",
+      "url": "https://www.ckmov.vip/api.php?url="
+    },
     {
       "id": 19,
-      "name": "自定义1",
+      "name": "Ckplayer",
       "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+      "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "id": 19,
