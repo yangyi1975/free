@@ -1,16 +1,56 @@
 {
 "spider": "https://raw.sevencdn.com/yangyi1975/free/main/custom_spider.jar",
 "sites": [    
-      {
+{
+    "key": "csp_yysdali",
+    "name": "YYDS影视",
+    "type": 3,
+    "api": "csp_YydsAli",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+},
+{
+    "key": "csp_xpath_egg",
+    "name": "蛋蛋影院(XPath)",
+    "type": 3,
+    "api": "csp_XPathEgg",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+},
+{
+     "key": "csp_xpath_saohuotv",
+     "name": "骚火电影(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+},
+{
+    "key": "csp_xpath_nfmov",
+    "name": "奈菲影院(XPath)",
+    "type": 3,
+    "api": "csp_XPathNfMov",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
+},
+{
     "key": "csp_xpath_Jumi",
     "name": "Jumi(XPath)",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,
-    "ext": "{\"ua\":\"\",\"homeUrl\":\"https://jumi.tv\",\"cateNode\":\"//ul[contains(@class, 'myui-header__menu nav-menu')]/li[@class='dropdown-hover']//ul/li/a[contains(@href, 'type') and not(contains(@href, 'label'))]\",\"cateName\":\"/text()\",\"cateId\":\"/@href\",\"cateIdR\":\"/type/(\\\\w+).html\",\"cateManual\":{},\"homeVodNode\":\"//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]\",\"homeVodName\":\"/@title\",\"homeVodId\":\"/@href\",\"homeVodIdR\":\"/vod/(\\\\w+).html\",\"homeVodImg\":\"/@data-original\",\"homeVodImgR\":\"\\\\S+(http\\\\S+)\",\"homeVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"cateUrl\":\"https://jumi.tv/type/{cateId}-{catePg}.html\",\"cateVodNode\":\"//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]\",\"cateVodName\":\"/@title\",\"cateVodId\":\"/@href\",\"cateVodIdR\":\"/vod/(\\\\w+).html\",\"cateVodImg\":\"/@data-original\",\"cateVodImgR\":\"\\\\S+(http\\\\S+)\",\"cateVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"dtUrl\":\"https://jumi.tv/vod/{vid}.html\",\"dtNode\":\"//div[contains(@class,'col-lg-wide-75')]\",\"dtName\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title\",\"dtNameR\":\"\",\"dtImg\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original\",\"dtImgR\":\"\\\\S+(http\\\\S+)\",\"dtCate\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分類')]/following-sibling::*/text()\",\"dtCateR\":\"\",\"dtYear\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()\",\"dtYearR\":\"\",\"dtArea\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地區')]/following-sibling::*/text()\",\"dtAreaR\":\"\",\"dtMark\":\"\",\"dtMarkR\":\"\",\"dtActor\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()\",\"dtActorR\":\"\",\"dtDirector\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '導演')]/following-sibling::*/text()\",\"dtDirectorR\":\"\",\"dtDesc\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '簡介')]/parent::text()\",\"dtDescR\":\"\",\"dtFromNode\":\"//a[@data-toggle='tab' and contains(@href, 'playlist')]\",\"dtFromName\":\"/text()\",\"dtFromNameR\":\"\",\"dtUrlNode\":\"//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]\",\"dtUrlSubNode\":\"//li/a\",\"dtUrlId\":\"@href\",\"dtUrlIdR\":\"/play/(\\\\S+).html\",\"dtUrlName\":\"/text()\",\"dtUrlNameR\":\"\",\"playUrl\":\"https://jumi.tv/play/{playUrl}.html\",\"playUa\":\"\",\"searchUrl\":\"https://jumi.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10\",\"scVodNode\":\"json:list\",\"scVodName\":\"name\",\"scVodId\":\"id\",\"scVodIdR\":\"\",\"scVodImg\":\"pic\",\"scVodMark\":\"\"}"
-    },
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
+},
     {
     "key": "csp_xpath_tvci",
     "name": "大师兄(XPath)",
@@ -59,7 +99,7 @@
     "filterable": 1,
     "ext": "{\"ua\":\"\",\"homeUrl\":\"https://www.agefans.cc/update\",\"cateManual\":{\"全部\":\"\",\"中国\":\"-中国-all-all\",\"日本\":\"-日本-all-all\",\"欧美\":\"-欧美-all-all\"},\"homeVodNode\":\"//div[@class='blockcontent']//ul[@class='ul_li_a6']/li\",\"homeVodName\":\"/h4[@class='anime_icon2_name']/a/text()\",\"homeVodId\":\"/h4[@class='anime_icon2_name']/a/@href\",\"homeVodIdR\":\"/detail/(\\\\w+)\",\"homeVodImg\":\"//img/@src\",\"homeVodMark\":\"//img/@title\",\"cateUrl\":\"https://www.agefans.cc/catalog/all-all-all-all-all-time-{catePg}{cateId}\",\"cateVodNode\":\"//div[@class='blockcontent1']/div/a\",\"cateVodName\":\"/img/@alt\",\"cateVodId\":\"/@href\",\"cateVodIdR\":\"/detail/(\\\\w+)\",\"cateVodImg\":\"/img/@src\",\"cateVodMark\":\"/span[@class='newname']/text()\",\"dtUrl\":\"https://www.agefans.cc/detail/{vid}\",\"dtNode\":\"//div[@id='container']\",\"dtName\":\"//div[@class='div_left']/div[@class='baseblock'][1]/div[@class='blockcontent']/img/@alt\",\"dtImg\":\"//div[@class='div_left']/div[@class='baseblock'][1]/div[@class='blockcontent']/img/@src\",\"dtCate\":\"//div[@class='div_left']/div[@class='baseblock'][2]//span[@class='detail_imform_tag' and contains(text(), '剧情类型')]/following-sibling::*/text()\",\"dtYear\":\"//div[@class='div_left']/div[@class='baseblock'][2]//span[@class='detail_imform_tag' and contains(text(), '首播时间')]/following-sibling::*/text()\",\"dtArea\":\"//div[@class='div_left']/div[@class='baseblock'][2]//span[@class='detail_imform_tag' and contains(text(), '地区')]/following-sibling::*/text()\",\"dtMark\":\"\",\"dtDirector\":\"//div[@class='div_left']/div[@class='baseblock'][2]//span[@class='detail_imform_tag' and contains(text(), '制作公司')]/following-sibling::*/text()\",\"dtDesc\":\"//div[@class='div_right']/div[@class='baseblock'][2]//p/text()\",\"dtFromNode\":\"//div[@id='playlist-div']/ul[@class='menu0']/li\",\"dtFromName\":\"/text()\",\"dtUrlNode\":\"//div[@id='playlist-div']/div[@class='main0']/div\",\"dtUrlSubNode\":\"//li/a\",\"dtUrlId\":\"@href\",\"dtUrlIdR\":\"/play/(\\\\S+)\",\"dtUrlName\":\"/text()\",\"playUrl\":\"https://www.agefans.cc/play/{playUrl}\",\"playUa\":\"\",\"searchUrl\":\"https://www.agefans.cc/search?query={wd}&page=1\",\"scVodNode\":\"//div[@class='blockcontent1']/div/a\",\"scVodName\":\"/img/@alt\",\"scVodId\":\"/@href\",\"scVodIdR\":\"/detail/(\\\\w+)\",\"scVodImg\":\"/img/@src\",\"scVodMark\":\"/span[@class='newname']/text()\"}"
 },
-	{
+{
     "key": "csp_Nekk",
     "name": "9E看看（爬虫）",
     "type": 3,
@@ -68,7 +108,7 @@
     "quickSearch": 0,
     "filterable": 1
   },
-	{
+{
     "key": "csp_Aidi",
     "name": "爱迪爬虫",
     "type": 3,
@@ -104,7 +144,7 @@
   "quickSearch": 0,
   "filterable": 1
 },
- {
+{
   "key": "csp_Cokemv",
   "name": "Cokemv(爬虫)",
   "type": 3,
@@ -165,8 +205,8 @@
       "name": "优全影视",
       "type": 0,
       "api": "https://xmyun.xyz/api.php/provide/vod/at/xml"
-    },	 
-	{
+    },
+{
             "key": "真不卡",
             "name": "真不卡",
             "type": 0,
@@ -226,14 +266,6 @@
             "categories":[]
         }, 
 {
-            "key": "瓜皮TV",
-            "name": "瓜皮TV",
-            "type": 0,
-            "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories":[]
-},
-{
       "key": "1717腾讯资源",
       "name": "腾讯资源",
       "type": 0,
@@ -257,7 +289,7 @@
       "playUrl": "https://jx.xmflv.com/?url=",
       		"categories": []
     },
-{
+ {
 		"key": "One影视",
 		"name": "One影视_M",
 		"type": 0,
@@ -712,14 +744,6 @@
 		"categories": []
 	},
 	{
-		"key": "无极影院",
-		"name": "无极影院",
-		"type": 0,
-		"api": "http://wujiys.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-    {
       "key": "百度采集",
       "name": "百度采集",
       "type": 1,
@@ -832,7 +856,7 @@
    "动画片"
  ]
     },
-       {
+    {
             "key": "八戒资源",
             "name": "八戒资源",
             "type": 0,
@@ -957,13 +981,6 @@
       "categories": []
     },
     {
-      "key": "八戒云",
-      "name": "八戒云",
-      "type": 0,
-      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "categories": []
-    },
- {
       "key": "北斗星",
       "name": "北斗星",
       "type": 0,
@@ -1097,9 +1114,157 @@
       "playUrl": "",
       "categories": []
     }
-  ],
+   ],
+  "parses": [
+  {
+    "name": "Json并发",
+    "type": 2,
+    "url": "Parallel"
+  },
+  {
+    "name": "Json轮询",
+    "type": 2,
+    "url": "Sequence"
+  }
+ 
+],
   "lives": [
     {
+      "group": "港台",
+      "channels": [
+        {
+          "name": "凤凰卫视",
+          "urls": [
+            "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P",
+            "http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+            "http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+            "https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
+          ]
+        },
+          {
+          "name": "凤凰香港",
+          "urls": [
+            "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8"
+          ]
+        },
+          {
+          "name": "TVBS新闻",
+          "urls": [
+            "rtmp://161.202.204.248/sat/tv551",
+            "rtmp://161.202.204.248/sat/tv552"
+          ]
+        },
+          {
+          "name": "台视",
+          "urls": [
+            "rtmp://161.202.204.248/sat/tv071"
+          ]
+        },
+          {
+          "name": "天映经典",
+          "urls": [
+            "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"
+          ]
+        },
+         {
+          "name": "TVB星河",
+          "urls": [
+            "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "TVB翡翠",
+          "urls": [
+            "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "其他",
+      "channels": [
+        {
+          "name": "蜡笔小新",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=11352970"
+          ]
+        },
+        {
+          "name": "发哥经典",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=11342387"
+          ]
+        },
+        {
+          "name": "恐怖将映轮播",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=21059551"
+          ]
+        },
+        {
+          "name": "丧失系列轮播",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=21059552"
+          ]
+        },
+        {
+          "name": "生化危机轮播",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=21059553"
+          ]
+        },
+        {
+          "name": "恐怖系列轮播",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=21059554"
+          ]
+        },
+       {
+          "name": "Man vs. Wild系列轮播",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=21059555"
+          ]
+        },
+       {
+          "name": "漫威系列轮播",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=21059556"
+          ]
+        },
+        {
+          "name": "死神来了轮播",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=11352903"
+          ]
+        },
+          {
+          "name": "成龙经典",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=11342386"
+          ]
+        },
+         {
+          "name": "牛得化经典",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=11342424"
+          ]
+        },
+        {
+          "name": "周星星老湿",
+          "urls": [
+            "http://107.148.254.201:13164/v/huya.php?id=11342412"
+          ]
+        }
+      ]
+    },
+  	{
       "group": "自定义",
       "channels": [
         {
