@@ -9,7 +9,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+    "ext": "https://gitee.com/yanggungdi/free/raw/master/xpath/yyds.json"
 },
 {
     "key": "csp_xpath_egg",
@@ -19,7 +19,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+    "ext": "https://gitee.com/yanggungdi/free/raw/master/xpath/egg.json"
 },
 {
      "key": "csp_xpath_saohuotv",
@@ -29,7 +29,7 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+     "ext": "https://gitee.com/yanggungdi/free/raw/master/xpath/saohuotv2.json"
 },
 {
     "key": "csp_xpath_nfmov",
@@ -39,7 +39,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
+    "ext": "https://gitee.com/yanggungdi/free/raw/master/xpath/nfmovie.json"
 },
 {
     "key": "csp_xpath_Jumi",
@@ -49,7 +49,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
+    "ext": "https://gitee.com/yanggungdi/free/raw/master/xpath/jumi.json"
 },
     {
     "key": "csp_xpath_tvci",
